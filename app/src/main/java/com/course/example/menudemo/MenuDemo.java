@@ -75,7 +75,7 @@ public class MenuDemo extends ListActivity  {
 
 	// we will react to the events: either a click on the Menu button
 	//to trigger an Options Menu
-	// or a long �tap-and-hold� to trigger a Context Menu
+	// or a long tap-and-hold to trigger a Context Menu
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {	
 		super.onOptionsItemSelected(item);
