@@ -7,6 +7,8 @@
         android:id="@+id/selection"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#ffff0000"
         android:background="#ff0000ff"/>
     <ListView
         android:id="@android:id/list"
